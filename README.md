@@ -12,7 +12,7 @@ Installation
 
 Navigate into the project directory:
 
-bash
+   bash
 cd RXC-DDOSER
 
 Install dependencies:
