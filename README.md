@@ -7,7 +7,7 @@ Installation
 
 
 
-       bash
+       css
     Clone the repository:git clone https://github.com/ahad60602t/RXC-DDOSER
 
     
@@ -17,13 +17,13 @@ Installation
 Navigate into the project directory:
 
 
-    bash 
+    css 
     cd RXC-DDOSER
 
 Install dependencies:
 
 
-     bash
+     css
      pip3 install -r requirments.txt
 
 Usage
@@ -31,7 +31,7 @@ Usage
     Modify headers.txt with your desired HTTP headers.
     Run the script with Python 3:
 
-    php
+    css
 
     python3 rxc_ddoser.py -s <server_ip> -p <port> -t <turbo>
 
@@ -45,9 +45,8 @@ Options
 
 Example
 
-css
-
-python3 rxc_ddoser.py -s 192.168.1.1 -p 80 -t 200
+     css 
+    python3 rxc_ddoser.py -s 192.168.1.1 -p 80 -t 200
 
 Disclaimer
 
@@ -59,7 +58,7 @@ Author
 NASIF HIMADRI
 
 
-       bash
+       css
     GitHub: https://github.com/ahad60602t
 
 Feedback
