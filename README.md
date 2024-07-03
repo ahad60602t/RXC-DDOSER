@@ -1,4 +1,5 @@
 RXC DDOSER
+
 Simple ddos tool
 
 Installation
@@ -7,17 +8,17 @@ Installation
 
     bash
 
-
+git clone https://github.com/ahad60602t/
 
 Navigate into the project directory:
 
 bash
 
-cd 
+cd RXC-DDOSER
 
 Install dependencies:
-
-    pip
+   bash
+   pip3 install -r requirments.txt
 
 Usage
 
@@ -47,21 +48,12 @@ Disclaimer
 This tool is intended for server stress testing purposes only. Use responsibly and legally. Your IP address is visible during usage.
 License
 
-Include your license information here.
 Author
 
-Your Name
+NASIF HIMADRI
 
-    GitHub: Your GitHub Profile
-
-Contributing
-
-    Fork it (https://github.com/your_username/your_repository/fork)
-    Create your feature branch (git checkout -b feature/your-feature)
-    Commit your changes (git commit -am 'Add some feature')
-    Push to the branch (git push origin feature/your-feature)
-    Create a new Pull Request
+    GitHub: https://github.com/ahad60602t
 
 Feedback
 
-If you have any feedback, please create an issue or reach out to [your_email@example.com].
+If you have any feedback, please create an issue or reach out to [nasifhimadri@gmail.com].
