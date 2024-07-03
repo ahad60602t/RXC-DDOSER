@@ -3,6 +3,10 @@ RXC DDOSER
 Simple ddos tool
 
 Installation
+
+
+
+
        bash
     Clone the repository:git clone https://github.com/ahad60602t/RXC-DDOSER
 
@@ -12,12 +16,15 @@ Installation
 
 Navigate into the project directory:
 
-   bash
-cd RXC-DDOSER
+
+    bash 
+    cd RXC-DDOSER
 
 Install dependencies:
-   bash
-   pip3 install -r requirments.txt
+
+
+     bash
+     pip3 install -r requirments.txt
 
 Usage
 
@@ -51,6 +58,8 @@ Author
 
 NASIF HIMADRI
 
+
+       bash
     GitHub: https://github.com/ahad60602t
 
 Feedback
