@@ -24,8 +24,11 @@ Replace <server_ip>, <port>, and <turbo> with your server IP, port, and turbo va
 Options
 
 -s <server_ip>: Specify the server IP to attack.
+
 -p <port>: Specify the port (default is 80).
+
 -t <turbo>: Specify the turbo value (default is 135 max 1200).
+
 
 Example
 
