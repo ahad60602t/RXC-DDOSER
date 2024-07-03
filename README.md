@@ -15,9 +15,9 @@ Installation:
 Usage:
 
 Modify headers.txt with your desired HTTP headers.
-Run the script with Python 3:
 
-     rxc_ddoser.py -s <server_ip> -p <port> -t <turbo>
+
+     python3 rxc_ddoser.py -s <server_ip> -p <port> -t <turbo>
 
 Replace <server_ip>, <port>, and <turbo> with your server IP, port, and turbo value respectively.
 
